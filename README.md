@@ -39,5 +39,5 @@ and you can see my models on Database/Models directory in the project.
 The first struggle or maybe a mistake for me is making the newsDetail part varchar(100). News detail in real life it takes much more than that.
 Second struggle is EN/TR changes. My News Categories comes to the front with their attribute on query. Query in english works but the Turkish doesn't work.
 
-I could do this project with .NET or any framework with JS but I was so comfortable with PHP, and that costs me for publishing on AWS. I couldn't manage the dockerize PHP 8.2 version. I gave got infinite errors during the process. Unfortunetly no publishing for the project.
+I could do this project with .NET or any framework with JS but I was so comfortable with PHP, and that costs me for publishing on AWS. I couldn't manage the dockerize PHP 8.2 version. I have got infinite errors during the process. Unfortunetly no publishing for the project.
 
