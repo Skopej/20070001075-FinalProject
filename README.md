@@ -41,3 +41,6 @@ Second struggle is EN/TR changes. My News Categories comes to the front with the
 
 I could do this project with .NET or any framework with JS but I was so comfortable with PHP, and that costs me for publishing on AWS. I couldn't manage the dockerize PHP 8.2 version. I have got infinite errors during the process. Unfortunetly no publishing for the project.
 
+Project Video:
+
+https://drive.google.com/file/d/1DyB4JpM_HGqfhvVed548doBWQzaBQX8h/view?usp=sharing
